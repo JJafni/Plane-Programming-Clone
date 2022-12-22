@@ -23,3 +23,5 @@ In this game, you are the pilot of a plane and your goal is to navigate through 
 - Game design and programming: Djafny Abdad
 - Art assets: Djafny Abdad
 - Sound effects: Djafny Abdad
+
+/unfinished
